@@ -1,0 +1,35 @@
+.app-container {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: 'Lobster';
+  color: #0f172a;
+  font-size: 45px;
+}
+.list-container {
+  list-style-type: none;
+  display: flex;
+}
+
+.failure-view-img {
+  width: 50%;
+  height: 80vh;
+}
+.failure-heading {
+  font-family: 'Bree Serif';
+  color: #1e293b;
+  font-size: 40px;
+}
+.reposit-container {
+  width: 100%;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 0px;
+}

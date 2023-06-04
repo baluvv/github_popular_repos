@@ -1,0 +1,21 @@
+.non-selected-button {
+  background-color: transparent;
+  border-width: 0px;
+  margin-right: 10px;
+  font-family: 'Roboto';
+  color: #0f172a;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.selected-button {
+  background-color: transparent;
+  border-width: 1px;
+  border-color: #0284c7;
+  margin-right: 10px;
+  font-family: 'Roboto';
+  color: #0284c7;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 15px;
+}
